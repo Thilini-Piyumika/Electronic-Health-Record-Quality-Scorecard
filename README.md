@@ -78,19 +78,6 @@ Binary classification label was generated using the median threshold.
 
 ---
 
-## 📈 Results Summary
-
-| Model               | Cross-Validation Accuracy |
-|--------------------|---------------------------|
-| Logistic Regression | 80.37%                    |
-| Random Forest       | 79.21%                    |
-| Decision Tree       | 77.76%                    |
-
-Logistic Regression achieved the highest cross-validation accuracy with stable performance and minimal overfitting.
-
-ROC analysis demonstrated strong class discrimination capability.
-
----
 
 ## 🔍 Key Insights
 
